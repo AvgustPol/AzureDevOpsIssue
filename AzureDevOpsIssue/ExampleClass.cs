@@ -16,5 +16,10 @@
         {
             // this method should be deleted
         }
+
+        public void AwesomeMethod()
+        {
+            // awesome method
+        }
     }
 }
